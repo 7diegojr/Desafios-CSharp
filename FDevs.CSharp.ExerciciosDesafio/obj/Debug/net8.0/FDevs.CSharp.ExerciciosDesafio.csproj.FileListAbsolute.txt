@@ -1,0 +1,14 @@
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\bin\Debug\net8.0\FDevs.CSharp.ExerciciosDesafio.exe
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\bin\Debug\net8.0\FDevs.CSharp.ExerciciosDesafio.deps.json
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\bin\Debug\net8.0\FDevs.CSharp.ExerciciosDesafio.runtimeconfig.json
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\bin\Debug\net8.0\FDevs.CSharp.ExerciciosDesafio.dll
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\bin\Debug\net8.0\FDevs.CSharp.ExerciciosDesafio.pdb
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\obj\Debug\net8.0\FDevs.CSharp.ExerciciosDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\obj\Debug\net8.0\FDevs.CSharp.ExerciciosDesafio.AssemblyInfoInputs.cache
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\obj\Debug\net8.0\FDevs.CSharp.ExerciciosDesafio.AssemblyInfo.cs
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\obj\Debug\net8.0\FDevs.CSharp.ExerciciosDesafio.csproj.CoreCompileInputs.cache
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\obj\Debug\net8.0\FDevs.CSharp.ExerciciosDesafio.dll
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\obj\Debug\net8.0\refint\FDevs.CSharp.ExerciciosDesafio.dll
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\obj\Debug\net8.0\FDevs.CSharp.ExerciciosDesafio.pdb
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\obj\Debug\net8.0\FDevs.CSharp.ExerciciosDesafio.genruntimeconfig.cache
+C:\Users\dfsnt\Downloads\FDevs\C#\DesafiosCSharp\FDevs.CSharp.ExerciciosDesafio\obj\Debug\net8.0\ref\FDevs.CSharp.ExerciciosDesafio.dll
